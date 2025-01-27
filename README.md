@@ -1,5 +1,6 @@
 # zeotap_charan
 Data Science Assignment: eCommerce 
+
 Project Overview
 My project involves analyzing an eCommerce dataset to derive business insights, build predictive models, and segment customers based on their transactional and profile data. The dataset consists of three key files: Customers, Products, and Transactions. The main objectives of my project are:
 
